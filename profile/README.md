@@ -1,7 +1,8 @@
-# Welcome to SilverStar Technology’s site on GitHub
+![banner_silverstar](../images/banner_silverstar.png)
 
-The SilverStar Technology is a global innovation and technology leader in the field of industrial sewing.
-We develop, produce and sell high-quality SEWING CONTROL SYSTEM and EQUIPMENT, as well as DIGITIZING SOLUTIONS for our customers.
+We at SilverStar Technology are active in the field of Industrial Sewing over thirty years of experience.
+
+SilverStar develop, produce and sell high-quality SEWING CONTROL SYSTEM and EQUIPMENT, as well as DIGITIZING SOLUTIONS for our customers.
 
 ## GET INVOLVED
 
@@ -11,7 +12,7 @@ Right now, build amazing software together.
 
 ## BENEFIT FROM OUR INDUSTRY EXPERTISE
 
-- [INDUSTRIAL MACHINES]()
+- [INDUSTRIAL SEWING]()
 - [AUTOMOTIVE]()
 - [PRODUCTION CONTROL]()
 
